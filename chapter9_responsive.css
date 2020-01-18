@@ -54,14 +54,14 @@ main {
 }
 @media screen and (max-width:768px) {
   main {
-  	width: 100%;
+    width: 100%;
     margin-top: 50px;
   }
   .step {
-  	float: none;
-  	width: 90%;
+    float: none;
+    width: 90%;
     margin: 0 auto;
-  	margin-bottom: 20px;
+    margin-bottom: 20px;
   }
   .step1-img {
     width: 100%;
